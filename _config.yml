@@ -1,0 +1,17 @@
+# Site settings
+title: liveplant
+email: info@liveplant.io
+description: > # this means to ignore newlines until "baseurl:"
+  Liveplant puts the life of a plant in the hands of the Internet.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://about.liveplant.io"
+twitter_username: liveplant
+github_username:  liveplant
+
+# Build settings
+markdown: kramdown
+
+# GH
+highlighter: pygments
+safe: true
+lsi: false
