@@ -10,7 +10,7 @@ Today at the [Dallas Web & Mobile Development Meetup][meetup link] we initialize
 
 ## Background
 
-The concept is basically [Twitch Plays Pokémon][] for a taking care of a plant.
+The concept is basically [Twitch Plays Pokémon][twitch plays pokemon] for a taking care of a plant.
 A robot is setup to take care of a plant. The robot takes commands from the
 internet. A live stream is set up so people can watch the plant grow. The drama
 happens when bad internet people try to kill the plant by watering too much,
