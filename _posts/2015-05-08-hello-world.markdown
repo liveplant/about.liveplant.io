@@ -27,7 +27,7 @@ adopted liveplant.io as its social coding project! Yay! Now liveplant.io has
 team of people from all sorts of backgrounds to give it a fighting chance at
 being awesome!
 
-## Start Hacking
+## liveplant Codebase
 
 All of the code for liveplant is under the [liveplant GitHub organization][liveplant org]. The repos are organized as such:
 
