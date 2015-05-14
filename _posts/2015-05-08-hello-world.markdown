@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World: First Meeting Update"
+title:  "Meetup Notes: Hello World"
 date:   2015-05-08 19:00:00
 categories: progress
 author: Austin Pray
@@ -10,17 +10,17 @@ Today at the [Dallas Web & Mobile Development Meetup][meetup link] we initialize
 
 ## Background
 
-The concept is basically [Twitch Plays Pokémon][twitch plays pokemon] for a taking care of a plant.
-A robot is setup to take care of a plant. The robot takes commands from the
-internet. A live stream is set up so people can watch the plant grow. The drama
-happens when bad internet people try to kill the plant by watering too much,
-watering too little, withholding sunlight, etc.
+The concept is basically [Twitch Plays Pokémon][twitch plays pokemon] for
+taking care of a plant. A robot that takes commands from the internet is setup
+to take care of a plant. A live stream is set up so people can watch the plant
+grow. Drama occurs when bad internet people try to kill the plant by watering
+too much, watering too little, withholding sunlight, etc.
 
-This project goes all the way to [hackdfw][] February 28 - March 1, 2015.
-[Darren Cattle][], [Ridwan Hoq][], and I worked for 24 hours straight and were
-able to build a rough proof of concept. We did not like how unpolished it was
-and the fact that it barely worked. As a result: we put the project aside until
-we had more time to build it properly. 
+This project started as a [hackdfw][] project back between February 28 - March
+1, 2015.  [Darren Cattle][], [Ridwan Hoq][], and I worked for 24 hours straight
+and were able to build a rough proof of concept. At the end of the hackathon
+liveplant was barely working and completely unpolished. As a result: we put the
+project aside until we had more time to build it properly.  
 
 As of today the [Dallas Web & Mobile Development Meetup][meetup link] has
 adopted liveplant.io as its social coding project! Yay! Now liveplant.io has
