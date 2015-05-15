@@ -27,7 +27,7 @@ These instructions assume Linux, Unix, or Mac OS X
       <td>
         <ul>
           <li><strong>Recommended:</strong> Use <a href="https://rvm.io">RVM</a></li>
-          <li>It comes with your Mac and most *nix distros</li>
+          <li>Ruby comes with your Mac and most *nix distros</li>
         </ul>
       </td>
     </tr>
