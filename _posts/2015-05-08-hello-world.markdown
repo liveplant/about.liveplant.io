@@ -2,7 +2,7 @@
 layout: post
 title:  "Meetup Notes: Hello World"
 date:   2015-05-08 19:00:00
-categories: progress
+categories: meetup progress
 author: Austin Pray
 ---
 
