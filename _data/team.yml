@@ -4,3 +4,10 @@
   bio: |
     Austin leads the liveplant development effort. He has extensive experience
     building JavaScript single page apps and server-side software.
+
+- name: Chirag Gupta
+  github: chicagogupta
+  website: http://chicagogupta.com
+  bio: |
+    Chirag is using liveplant.io to sharpen his Go skills and to learn how to build an API. He has experience building 
+    Ruby on Rails web apps and teaches a beginners web dev course at NoD Coworking in Dallas.
