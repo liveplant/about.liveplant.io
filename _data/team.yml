@@ -21,3 +21,11 @@
   bio: |
     Nathaniel is a DevOps Engineer always on the pursuit of knowledge. He'll be bringing his experience working with
     backends to the table and is looking to expand his knowledge by building a robot.
+    
+ - name: Darren Cattle
+  github: darrencattle
+  avatar: https://avatars2.githubusercontent.com/u/6056347?v=3&s=200
+  website: http://twitter.com/darrencattle
+  bio: |
+    Darren is using liveplant.io to learn how to build an API and sharpen his hardware skillset. He has experience
+    building arduino based prototypes and designing 3D printable components.
