@@ -53,7 +53,11 @@ permalink: /team/
   <tbody>
     {% for contributor in site.github.contributors %}
     <tr>
-      <td>{{ contributor.login }}</td>
+      <td>
+        <a href="{{ contributor.html_url }}">
+          {{ contributor.login }}
+        </a>
+      </td>
       <td>{{ contributor.contributions }}</td>
     </tr>
     {% endfor %}
