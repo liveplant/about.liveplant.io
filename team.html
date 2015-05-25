@@ -40,3 +40,23 @@ permalink: /team/
     </ul>
   </div>
 {% endfor %}
+{% if site.github.contributors %}
+<h2>about.liveplant.io Contributors</h2>
+{% for contributor in site.github.contributors %}
+<table class="table">
+  <caption>Sorted by the number of commits per contributor in descending order.</caption>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Contributions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>{{ contributor.login }}</td>
+      <td>{{ contributor.contributions }}</td>
+    </tr>
+  </tbody>
+</table>
+{% endfor %}
+{% endif %}
