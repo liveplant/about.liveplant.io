@@ -14,7 +14,15 @@
     </div>
 
     {% include footer.html %}
-
+    {% if page.is_post %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/1.0.1/anchor.min.js"></script>
+    <script>
+      if(typeof anchors !== 'undefined') {
+        anchors.add();
+        anchors.remove('.post-title');
+      }
+    </script>
+    {% endif %}
   </body>
 
 </html>
