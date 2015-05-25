@@ -25,33 +25,10 @@ It's divided up into four sub-projects:
   will power the bot caring for the plant and reporting statistics such
   as humidity, temperature, etc.
 
-### Phase 1: Initial MVP
-
-The first version liveplant will incorporate the following criteria:
-
-- Interface with livefeed of plant and ability to submit bot action requests to
-  server.
-- Server is able to receive requests from liveplant.io interface and submit
-  them to bot.
-- Bot is able to listen to incoming requests from server.
-- Bot is able to water plant.
-
-#### Current blockers:
-
-- liveplant.io: Interface needs to be designed.
-- liveplant.io: Front-end framework needs to be chosen.
-- liveplant-server: Go server needs to be bootstrapped.
-- liveplant-bot: Microcontroller needs to be decided upon.
-
-### Phase 2 and beyond:
-
-If you'd like to contribute ideas to what liveplant.io should be able to do
-after phase 1 is completed, [submit a ticket][] and prefix the issue title with
-"Idea:".
-
 ### How can I help?
 
-Come to the meetups and contribute!
+First, check out [the roadmap][roadmap] to see what we're currently working on and where
+we're going. After that, come to the meetups and contribute!
 
 - Want to sling some html+css? Join the [about.liveplant.io][] team.
 - Have you been wanting to learn how to write a single page app? Join the [liveplant.io][] team.
@@ -76,4 +53,4 @@ Not at the moment. The goal of the project is to be educational.
 [liveplant-bot]: https://github.com/liveplant/liveplant.io
 [go]: https://golang.org/
 [hackdfw]: http://hackdfw.com/
-[submit a ticket]: https://github.com/liveplant/about.liveplant.io/issues/new
+[roadmap]: /roadmap/
