@@ -3,12 +3,12 @@ layout: post
 title:  "Meetup Notes: Start Hacking"
 date:   2015-05-22 19:00:00
 categories: meetup progress
-author: Liveplant Team
+author: nathanielks
 ---
 
 [Meetup link for posterity](http://www.meetup.com/Dallas-Web-Mobile-Development-Meetup/events/222583236/)
 
-Many team members were missing this meetup, so it was rather relaxed. Had the pleasure of meeting a new developer to the group and introducing him to Liveplant.
+Many team members were missing this meetup, so it was rather relaxed. Had the pleasure of adding a new developer to the group and introducing him to Liveplant.
 
 ### Discussions
 
