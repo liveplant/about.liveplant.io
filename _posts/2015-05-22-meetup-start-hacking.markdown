@@ -14,6 +14,6 @@ Many team members were missing this meetup, so it was rather relaxed. Had the pl
 
 - Talked about how to gamify liveplant and encourage people to continue coming back. Potential solution is a storyline and chaos events ( need to water the plant so much, defend the plant against ants, plant is going on an adventure, etc ).
 - Discussed alternate action voting mechanic: The Leaky Bucket. In order for an action to take place, the action has to receive N votes, with no time limit imposed. Every X period of time, Y votes are drained from the action bucket until it is empty, requiring it to be refilled.
-- Discussed overall infrastructure of entire Liveplant project and how all the pieces fit together. ([ChicagoGupta](https://github.com/ChicagoGupta) has a picture somewhere -->) 
+- Discussed overall infrastructure of entire Liveplant project and how all the pieces fit together.
 
-([Go retweet this](https://twitter.com/ChicagoGupta/status/602300835570188290))
+[Go retweet this!](https://twitter.com/ChicagoGupta/status/602300835570188290)
