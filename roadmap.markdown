@@ -4,13 +4,13 @@ title: Roadmap
 permalink: /roadmap/
 ---
 
-Interested in contributing? Pop over to the [Getting Started][getting-started] section to find how.
+Interested in contributing? Pop over to the [Getting Started][getting-started] page to find how.
 
 ## Phase 1: Initial MVP
 
 The first version liveplant will incorporate the following criteria:
 
-- Interface with livefeed of plant and ability to submit bot action requests to
+- Interface with live feed of plant and ability to submit bot action requests to
   server.
 - Server is able to receive requests from liveplant.io interface and submit
   them to bot.
