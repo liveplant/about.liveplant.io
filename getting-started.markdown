@@ -46,9 +46,9 @@ We look forward to seeing you at [the meetups][meetup-link]!
 [meetup-link]: http://www.meetup.com/Dallas-Web-Mobile-Development-Meetup/
 [liveplant-history]: /meetup/progress/2015/05/08/hello-world.html
 [about.liveplant.io]: https://github.com/liveplant/about.liveplant.io
-[liveplant.io]: https://github.com/liveplant/liveplant-server
-[liveplant-server]: https://github.com/liveplant/liveplant-bot
-[liveplant-bot]: https://github.com/liveplant/liveplant.io
+[liveplant.io]: https://github.com/liveplant/liveplant.io
+[liveplant-server]: https://github.com/liveplant/liveplant-server
+[liveplant-bot]: https://github.com/liveplant/liveplant-bot
 [go]: https://golang.org/
 [hackdfw]: http://hackdfw.com/
 [roadmap]: /roadmap/
