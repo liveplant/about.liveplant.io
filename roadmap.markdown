@@ -27,7 +27,7 @@ The first version liveplant will incorporate the following criteria:
 
 #### liveplant-server
 
-- Go server needs to be bootstrapped.
+- Go server needs to be bootstrapped!!!!!!!!!!!!!!!!
 
 #### liveplant-bot
 
