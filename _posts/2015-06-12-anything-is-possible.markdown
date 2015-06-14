@@ -8,7 +8,9 @@ author: Austin Pray
 
 [Meetup link for posterity.](http://www.meetup.com/Dallas-Web-Mobile-Development-Meetup/events/223056727/)
 
-# New Member: Zach Stokes
+# Robot 
+
+## New Member: Zach Stokes
 
 Zach Stokes (@DeftxPunk) has joined the project! Why is this so exciting? He
 has direct experience putting together an IoT hydroponics robot! 
