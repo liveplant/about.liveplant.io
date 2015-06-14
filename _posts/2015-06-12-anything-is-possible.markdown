@@ -3,7 +3,7 @@ layout: post
 title:  "Meetup Notes: Anything is Possible"
 date:   2015-06-12 19:00:00
 categories: meetup progress
-author: austinpray
+author: Austin Pray
 ---
 
 [Meetup link for posterity.](http://www.meetup.com/Dallas-Web-Mobile-Development-Meetup/events/223056727/)
