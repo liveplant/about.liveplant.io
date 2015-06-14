@@ -14,7 +14,7 @@
     Chirag is using liveplant.io to sharpen his Go skills and to learn how to
     build an API. He has experience building Ruby on Rails web apps and teaches
     a beginner's web dev course at NoD Coworking in Dallas.
-    
+
 - name: Nathaniel Schweinberg
   github: nathanielks
   avatar: https://avatars3.githubusercontent.com/u/314009?v=3&s=200
@@ -23,7 +23,7 @@
     Nathaniel is a DevOps Engineer always in pursuit of knowledge. He brings
     his server-side experience to the table and is looking to learn how to hack
     on hardware.
-    
+
 - name: Darren Cattle
   github: darrencattle
   avatar: https://avatars2.githubusercontent.com/u/6056347?v=3&s=200
@@ -41,3 +41,13 @@
     Ridwan is a hacker hailing from Austin, TX. He will be helping out with
     liveplant's API design and slinging some Go whenever possible. He is getting
     much better at talking in the third person already.
+
+- name: Shawn Spencer
+  github: smspence
+  avatar: https://avatars3.githubusercontent.com/u/8737396?v=3&s=200
+  website: https://github.com/smspence
+  bio: |
+    Shawn is a software engineer with experience in developing embedded and desktop
+    applications for the avionics industry.  He got involved with liveplant to
+    broaden his knowledge of back-end web development and learn some new languages
+    and tools along the way.
