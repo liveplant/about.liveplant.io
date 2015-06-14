@@ -24,3 +24,11 @@ Took care of some housekeeping on [liveplant server](https://github.com/liveplan
 
 - [Added cors](https://github.com/liveplant/liveplant-server/issues/14)
 - [Added support for OPTIONS](https://github.com/liveplant/liveplant-server/issues/14)
+
+# Client 
+
+Nothing notable to report. Check the [existing open issues](https://github.com/liveplant/liveplant.io/issues).
+
+Discussion about the strategy going forward is happening
+[here](https://github.com/liveplant/liveplant.io/issues/10) and
+[here](https://github.com/liveplant/liveplant.io/issues/1). Input is needed.
