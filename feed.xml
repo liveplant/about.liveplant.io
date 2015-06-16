@@ -12,21 +12,21 @@ permalink: /feed.xml
   xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
   >
   <channel>
-    <title xml:lang="en">Jekyll • Simple, blog-aware, static sites</title>
+    <title xml:lang="en">Liveplant • The Life of a Plant in the Hands of the Internet.</title>
     <atom:link type="application/atom+xml" href="http://jekyllrb.com/feed.xml" rel="self"/>
-    <link>http://jekyllrb.com/</link>
+    <link>http://about.liveplant.io/</link>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <language>en-US</language>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    <description>Transform your plain text into static websites and blogs.</description>
+    <description>An open source hardware and software project that puts the life of a plant in the hands of the Internet.</description>
     <image>
-      <description>Transform your plain text into static websites and blogs.</description>
-      <url>http://jekyllrb.com/img/logo-rss.png</url>
-      <title>Jekyll • Simple, blog-aware, static sites</title>
-      <link>http://jekyllrb.com/</link>
-      <width>144</width>
-      <height>73</height>
+      <description>An open source hardware and software project that puts the life of a plant in the hands of the Internet.</description>
+      <url>https://avatars2.githubusercontent.com/u/11252818?v=3&s=200</url>
+      <title>Liveplant • The Life of a Plant in the Hands of the Internet.</title>
+      <link>http://about.liveplant.io/</link>
+      <width>200</width>
+      <height>200</height>
     </image>
     {% for post in site.posts %}
     <item>
