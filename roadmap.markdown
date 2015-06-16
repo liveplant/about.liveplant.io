@@ -27,7 +27,7 @@ The first version liveplant will incorporate the following criteria:
 
 #### liveplant-server
 
-- Go server needs to be bootstrapped!!!!!!!!!!!!!!!!
+- [1.0.0 milestone action items](https://github.com/liveplant/liveplant-server/milestones/1.0.0)
 
 #### liveplant-bot
 
@@ -38,6 +38,8 @@ The first version liveplant will incorporate the following criteria:
 If you'd like to contribute ideas to what liveplant.io should be able to do
 after phase 1 is completed, [submit a ticket][] and prefix the issue title with
 "Idea:".
+
+### Ideas for the future
 
 - Temperature control
 - Grow light
