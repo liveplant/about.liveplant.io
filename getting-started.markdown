@@ -40,6 +40,13 @@ contribute!
 
 We look forward to seeing you at [the meetups][meetup-link]!
 
+### How can I stay updated?
+
+To get project updates you can [Follow us on
+Twitter](https://twitter.com/liveplantio) or [Subscribe to email
+updates](http://eepurl.com/bq08JD). We also have an RSS feed available
+[here](http://about.liveplant.io/feed.xml).
+
 [austin]: https://github.com/austinpray
 [darren]: https://github.com/darrencattle
 [rid]: https://github.com/ridhoq
