@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Liveplant puts the life of a plant in the hands of the Internet.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://about.liveplant.io"
-twitter_username: liveplant
+twitter_username: liveplantio
 github_username:  liveplant
 
 repository: "liveplant/about.liveplant.io"
