@@ -31,7 +31,7 @@ permalink: /feed.xml
     {% for post in site.posts %}
     <item>
       <title>{{ post.title | xml_escape}}</title>
-      <link>http://jekyllrb.com{{ post.url }}</link>
+      <link>http://about.liveplant.io{{ post.url }}</link>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <dc:creator>{{ post.author }}</dc:creator>
       {% for tag in post.tags %}
@@ -40,7 +40,7 @@ permalink: /feed.xml
       {% for cat in post.categories %}
       <category>{{ cat | xml_escape }}</category>
       {% endfor %}
-      <guid isPermaLink="true">http://jekyllrb.com{{ post.url }}</guid>
+      <guid isPermaLink="true">http://about.liveplant.io{{ post.url }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}
