@@ -7,18 +7,17 @@ This repo serves two purposes:
 2. Explaining liveplant to external users
 
 This site is built with [Jekyll][]. I recommend you visit [the Jekyll docs][]
-and take a look at the [GitHub Pages instructions][]
+and take a look at the [GitHub Pages instructions][].
 
 ## Dependencies
-
-These instructions assume Linux, Unix, or Mac OS X
 
 <table class="table">
   <caption></caption>
   <thead>
     <tr>
       <th>Dependency</th>
-      <th>Install Options</th>
+      <th>Install Options <br> (Linux, Unix, Mac OS X)</th>
+      <th>Install Options <br> (Windows)</th>
     </tr>
   </thead>
   <tbody>
@@ -30,11 +29,33 @@ These instructions assume Linux, Unix, or Mac OS X
           <li>Ruby comes with your Mac and most *nix distros</li>
         </ul>
       </td>
+      <td>
+        <ul>
+          <li>Use <a href="http://rubyinstaller.org/">RubyInstaller</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Bundler</td>
       <td><code>gem install bundler</code></td>
-      </tr>
+      <td><code>gem install bundler</code></td>
+    </tr>
+    <tr>
+      <td>
+        Python
+        (required by Jekyll)
+      </td>
+      <td>
+        <ul>
+          <li>Python comes with your Mac and most *nix distros</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Download <a href="https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi">here</a> (version 2.7.10).</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -52,7 +73,7 @@ bundle install
 ```
 bundle exec jekyll serve
 ```
-4. You should have a site running at http://0.0.0.0:4000/
+4. You should have a site running at http://0.0.0.0:4000/ (or http://127.0.0.1:4000/)
 
 [Jekyll]: http://jekyllrb.com/
 [the Jekyll docs]: http://jekyllrb.com/docs/home/
